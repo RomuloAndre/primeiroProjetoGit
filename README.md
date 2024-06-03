@@ -26,3 +26,42 @@ O arquivo `index.html` contém o seguinte conteúdo básico:
     <img src="images/GitHub-logo.png" alt="Minha Imagem">
 </body>
 </html>
+
+### Pasta images
+A pasta images contém a imagem que está referenciada no arquivo index.html. A imagem foi adicionada para demonstrar como incluir recursos externos em uma página web.
+
+###Instruções para Clonar o Repositório
+Para clonar este repositório para sua máquina local, execute o seguinte comando no terminal:
+
+'''git
+git clone https://github.com/usuario/meu-projeto.git
+
+###Contribuição
+Se você deseja contribuir com este projeto, siga os passos abaixo:
+
+###Faça um fork deste repositório.
+Crie uma branch para suas alterações:
+
+'''git
+git checkout -b minha-branch
+
+###Faça o commit das suas alterações:
+
+'''git
+git commit -m "Descrição das alterações"
+
+###Faça o push para a branch:
+
+'''git
+git push origin minha-branch
+
+Abra um pull request para revisar suas alterações.
+
+### Explicação do Conteúdo
+
+- **Introdução**: O início do README apresenta o objetivo do repositório, que é a prática do uso do Git e GitHub.
+- **Conteúdo do Repositório**: Explica os principais arquivos e pastas, detalhando o conteúdo do `index.html` e a pasta `images`.
+- **Instruções para Clonar o Repositório**: Fornece o comando Git necessário para clonar o repositório.
+- **Contribuição**: Guia para contribuir com o projeto, incluindo os passos para fazer um fork, criar uma branch, fazer commit e abrir um pull request.
+
+Esse README fornece uma visão clara do projeto, instruções detalhadas para usuários e contribuintes, e é organizado de forma a facilitar a navegação e compreensão do conteúdo do repositório.
